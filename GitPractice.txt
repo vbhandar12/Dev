@@ -1,3 +1,5 @@
 Refreshing Git knowledge again
 
 Modified first feature
+
+Adding new feature 2
