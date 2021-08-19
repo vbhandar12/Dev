@@ -1,1 +1,3 @@
 Refreshing Git knowledge again
+
+Added first feature
