@@ -2,5 +2,6 @@ Refreshing Git knowledge again
 
 Modified first feature
 Adding new feature from featureBranch2
-Adding new feature 3
+Adding new feature 3q
 Adding rebase line
+Adding after rebase
